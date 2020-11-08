@@ -1,6 +1,11 @@
 # Create Discord Bot
 
-[![Discord](https://discordapp.com/api/guilds/258167954913361930/embed.png)](https://discord.gg/WjEFnzC) [![Twitter Follow](https://img.shields.io/twitter/follow/peterthehan.svg?style=social)](https://twitter.com/peterthehan)
+
+[![Credit](https://img.shields.io/twitter/follow/peterthehan.svg?style=social)](https://twitter.com/peterthehan)
+
+[![Discord](https://discordapp.com/api/guilds/258167954913361930/embed.png)](https://discord.gg/WjEFnzC)
+
+[![Follow](https://img.shields.io/twitter/follow/cryptounico.svg?style=social)](http://twitter.com/cryptounico)
 
 Create Discord bots using a simple widget-based framework.
 
@@ -43,7 +48,7 @@ Create Discord bots using a simple widget-based framework.
 ### Create bot
 
 ```
-npx peterthehan/create-discord-bot
+npx cryptounico/create-discord-bot
 cd my-discord-bot/
 npm start
 ```
@@ -56,7 +61,7 @@ You're ready to create your own Discord bot! 🎉
 
 ### Updating
 
-Update your core bot files to the latest version in this project by running `npx peterthehan/create-discord-bot` and entering the same name as your existing Discord bot when asked for the application name. This will update:
+Update your core bot files to the latest version in this project by running `npx cryptounico/create-discord-bot` and entering the same name as your existing Discord bot when asked for the application name. This will update:
 
 - [src/index.js](./app/src/index.js)
 - [src/core/](./app/src/core)
@@ -97,14 +102,14 @@ src/
 
 The following widgets can be used by this framework by adding them into the [src/widgets/](./app/src/widgets) folder:
 
-- [https://github.com/peterthehan/discord-active-role-bot](https://github.com/peterthehan/discord-active-role-bot)
-- [https://github.com/peterthehan/discord-audit-log-bot](https://github.com/peterthehan/discord-audit-log-bot)
-- [https://github.com/peterthehan/discord-birthday-role-bot](https://github.com/peterthehan/discord-birthday-role-bot)
-- [https://github.com/peterthehan/discord-cron-bot](https://github.com/peterthehan/discord-cron-bot)
-- [https://github.com/peterthehan/discord-emoji-log-bot](https://github.com/peterthehan/discord-emoji-log-bot)
-- [https://github.com/peterthehan/discord-reaction-role-bot](https://github.com/peterthehan/discord-reaction-role-bot)
-- [https://github.com/peterthehan/discord-starboard-bot](https://github.com/peterthehan/discord-starboard-bot)
-- [https://github.com/peterthehan/discord-twitter-bot](https://github.com/peterthehan/discord-twitter-bot)
+- [https://github.com/cryptounico/discord-active-role-bot](https://github.com/cryptounico/discord-active-role-bot)
+- [https://github.com/cryptounico/discord-audit-log-bot](https://github.com/cryptounico/discord-audit-log-bot)
+- [https://github.com/cryptounico/discord-birthday-role-bot](https://github.com/cryptounico/discord-birthday-role-bot)
+- [https://github.com/cryptounico/discord-cron-bot](https://github.com/cryptounico/discord-cron-bot)
+- [https://github.com/cryptounico/discord-emoji-log-bot](https://github.com/cryptounico/discord-emoji-log-bot)
+- [https://github.com/cryptounico/discord-reaction-role-bot](https://github.com/cryptounico/discord-reaction-role-bot)
+- [https://github.com/cryptounico/discord-starboard-bot](https://github.com/cryptounico/discord-starboard-bot)
+- [https://github.com/cryptounico/discord-twitter-bot](https://github.com/cryptounico/discord-twitter-bot)
 
 ## Troubleshooting
 
